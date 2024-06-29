@@ -1,2 +1,2 @@
 # Spanish_Vocab
-Names of colrs in spanish and their respective colors
+Names of colors in spanish and their respective colors
